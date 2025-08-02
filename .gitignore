@@ -115,3 +115,6 @@ Thumbs.db
 *.tmp
 *.temp
 *.log
+
+
+tournament_resultsV2.csv
